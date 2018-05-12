@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8071
     wikipedia: https://en.wikipedia.org/wiki/Edward_Hammond_Clarke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18504#Sex-in-Educationor-A-Fair-Chance-for-Girls
 gutenberg_issued: '2006-06-05'
 gutenberg_type: Text
 identifiers:
